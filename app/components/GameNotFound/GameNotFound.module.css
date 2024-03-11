@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 75vh;
+}
+
+.title {
+  font-size: 96px;
+}
+
+.subtitle {
+  font-size: 40px;
+  font-weight: 400;
+}
